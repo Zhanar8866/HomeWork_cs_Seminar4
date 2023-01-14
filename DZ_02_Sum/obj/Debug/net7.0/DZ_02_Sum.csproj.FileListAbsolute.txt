@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\obj\Debug\net7.0\DZ_02_Sum.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\obj\Debug\net7.0\DZ_02_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\obj\Debug\net7.0\DZ_02_Sum.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\obj\Debug\net7.0\DZ_02_Sum.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\obj\Debug\net7.0\DZ_02_Sum.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\bin\Debug\net7.0\DZ_02_Sum.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\bin\Debug\net7.0\DZ_02_Sum.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\bin\Debug\net7.0\DZ_02_Sum.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\bin\Debug\net7.0\DZ_02_Sum.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\bin\Debug\net7.0\DZ_02_Sum.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\obj\Debug\net7.0\DZ_02_Sum.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\obj\Debug\net7.0\refint\DZ_02_Sum.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\obj\Debug\net7.0\DZ_02_Sum.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\obj\Debug\net7.0\DZ_02_Sum.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_02_Sum\obj\Debug\net7.0\ref\DZ_02_Sum.dll
