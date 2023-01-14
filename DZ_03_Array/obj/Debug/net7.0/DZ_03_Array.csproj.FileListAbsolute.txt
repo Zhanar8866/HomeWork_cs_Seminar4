@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\bin\Debug\net7.0\DZ_03_Array.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\bin\Debug\net7.0\DZ_03_Array.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\bin\Debug\net7.0\DZ_03_Array.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\bin\Debug\net7.0\DZ_03_Array.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\bin\Debug\net7.0\DZ_03_Array.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\obj\Debug\net7.0\DZ_03_Array.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\obj\Debug\net7.0\DZ_03_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\obj\Debug\net7.0\DZ_03_Array.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\obj\Debug\net7.0\DZ_03_Array.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\obj\Debug\net7.0\DZ_03_Array.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\obj\Debug\net7.0\DZ_03_Array.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\obj\Debug\net7.0\refint\DZ_03_Array.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\obj\Debug\net7.0\DZ_03_Array.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\obj\Debug\net7.0\DZ_03_Array.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_03_Array\obj\Debug\net7.0\ref\DZ_03_Array.dll
