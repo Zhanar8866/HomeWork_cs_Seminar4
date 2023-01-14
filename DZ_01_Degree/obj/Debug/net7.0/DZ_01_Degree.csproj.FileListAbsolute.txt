@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\obj\Debug\net7.0\DZ_01_Degree.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\obj\Debug\net7.0\DZ_01_Degree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\obj\Debug\net7.0\DZ_01_Degree.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\obj\Debug\net7.0\DZ_01_Degree.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\obj\Debug\net7.0\DZ_01_Degree.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\bin\Debug\net7.0\DZ_01_Degree.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\bin\Debug\net7.0\DZ_01_Degree.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\bin\Debug\net7.0\DZ_01_Degree.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\bin\Debug\net7.0\DZ_01_Degree.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\bin\Debug\net7.0\DZ_01_Degree.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\obj\Debug\net7.0\DZ_01_Degree.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\obj\Debug\net7.0\refint\DZ_01_Degree.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\obj\Debug\net7.0\DZ_01_Degree.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\obj\Debug\net7.0\DZ_01_Degree.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 04. C#\DZ\DZ_01_Degree\obj\Debug\net7.0\ref\DZ_01_Degree.dll
